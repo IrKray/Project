@@ -5,4 +5,13 @@
 
 .navig{
      position:fixed;
+     z-index:10;
+}
+
+.facebook{
+    height:100px;
+}
+
+section, input{
+    margin: 15px;
 }
